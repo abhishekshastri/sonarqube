@@ -387,5 +387,5 @@ parameters:
   - name: SONAR_IMAGE
     description: SonarQube container image 
     displayName: SonarQube container image 
-    value:  docker.io/sonarqube/sonarqube:7.9.2-community
+    value: docker.io/siamaksade/sonarqube:latest
     
